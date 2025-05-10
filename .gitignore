@@ -25,7 +25,6 @@
 **/.idea/
 **/.iml
 **/*.sln
-**/*.csproj
 **/*.unityproj
 **/*.booproj
 **/*.pidb
